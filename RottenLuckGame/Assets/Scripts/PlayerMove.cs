@@ -33,7 +33,7 @@ public class PlayerMove : MonoBehaviour
         }
 
         //log our change so we know it's moving and help trace errors
-        Debug.Log(change);
+       // Debug.Log(change);
     }
 
     void CharacterMove() {
